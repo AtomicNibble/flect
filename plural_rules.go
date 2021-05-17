@@ -141,6 +141,7 @@ var singleToPlural = map[string]string{
 	"woman":       "women",
 	"wolf":        "wolves",
 	"you":         "you",
+	"invoice":     "invoices",
 }
 
 var pluralToSingle = map[string]string{}
